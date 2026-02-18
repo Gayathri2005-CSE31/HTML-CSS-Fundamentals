@@ -1,6 +1,6 @@
 # 🚀 Day 1 - Full Stack Developer Internship
 
-## 📌 Topics Covered
+📌 Topics Covered
 
 ### 🔹 HTML
 - Basic Tags: <div>, <span>, <b>
